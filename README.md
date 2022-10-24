@@ -14,3 +14,21 @@ https://inna-malina.github.io/nevtrip-little-site/
 * на ширине 600рх я создала медиазапрос
 * ширину основного содержимого сделала 95%
 * и добавила box-sizing: border-box чтоб padding не добавлял ширину блоку.
+```
+  @media screen and (max-width: 600px) {
+    .table-wrap {
+        overflow-x: scroll;
+        width: 100%;
+    }
+
+    .blog {
+        position: relative;
+        margin: 0 auto;
+        padding: 20px 15px;
+        max-width: 95%;
+        box-sizing:border-box;
+        background-color: #fff;
+    }
+  }
+```
+###
