@@ -1,8 +1,7 @@
-https://inna-malina.github.io/nevtrip-little-site/
+[Ссылка на моё портфолио] (https://inna-malina.github.io/my_cv/)
 ### Вёрстка страницы
-Вёрстка страницы по [макету](https://www.figma.com/file/JyFQcxiynMH1i5ViWz4qi0/Layout-test-task?node-id=0%3A1)
 Ссылка на свёрстанный макет [ссылка на вёрстку](https://inna-malina.github.io/nevtrip-little-site/)
-Ссылка на страницу с кодом[здесь](https://github.com/Inna-malina/nevtrip-little-site)
+Ссылка на страницу с кодом [здесь](https://github.com/Inna-malina/nevtrip-little-site)
 
 ### Таблица на странице
 Если таблица не помещается в ширину дисплея, то это решается просто. Саму таблицу нужно обернуть в контейнер
