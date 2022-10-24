@@ -1,4 +1,4 @@
-[Ссылка на моё портфолио] (https://inna-malina.github.io/my_cv/)
+[Ссылка на моё портфолио](https://inna-malina.github.io/my_cv/)
 ### Вёрстка страницы
 Ссылка на свёрстанный макет [ссылка на вёрстку](https://inna-malina.github.io/nevtrip-little-site/)
 Ссылка на страницу с кодом [здесь](https://github.com/Inna-malina/nevtrip-little-site)
