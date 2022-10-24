@@ -20,7 +20,7 @@ timeBoxes.forEach(function (timeBox) {
 let imgPiter = document.querySelectorAll('.card__img');
 for (let i = 1; i <= imgPiter.length; i++) {
 
-    imgPiter[i - 1].style.background = `url(../assets/images/питер${[i]}.jpg)`;
+    imgPiter[i - 1].style.background = `url(./assets/images/питер${[i]}.jpg)`;
     imgPiter[i-1].style.backgroundRepeat = 'no-repeat';
     imgPiter[i-1].style.backgroundSize = 'cover';
 }
