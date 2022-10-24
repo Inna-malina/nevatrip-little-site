@@ -1,6 +1,8 @@
 https://inna-malina.github.io/nevtrip-little-site/
 ### Вёрстка страницы
-Вёрстка страницы по [макету](https://www.figma.com/file/JyFQcxiynMH1i5ViWz4qi0/Layout-test-task?node-id=0%3A1) - выполнено [ссылка на вёрстку](https://inna-malina.github.io/nevtrip-little-site/)
+Вёрстка страницы по [макету](https://www.figma.com/file/JyFQcxiynMH1i5ViWz4qi0/Layout-test-task?node-id=0%3A1)
+Ссылка на свёрстанный макет [ссылка на вёрстку](https://inna-malina.github.io/nevtrip-little-site/)
+Ссылка на страницу с кодом[здесь](https://github.com/Inna-malina/nevtrip-little-site)
 
 ### Таблица на странице
 Если таблица не помещается в ширину дисплея, то это решается просто. Саму таблицу нужно обернуть в контейнер
@@ -13,7 +15,7 @@ https://inna-malina.github.io/nevtrip-little-site/
 Как это решается:
 * на ширине 600рх я создала медиазапрос
 * ширину основного содержимого сделала 95%
-* и добавила box-sizing: border-box чтоб padding не добавлял ширину блоку.
+* и добавила box-sizing: border-box, чтоб padding не добавлял ширину блоку.
 ```
   @media screen and (max-width: 600px) {
     .table-wrap {
@@ -31,4 +33,9 @@ https://inna-malina.github.io/nevtrip-little-site/
     }
   }
 ```
-###
+### Билеты на событие
+Папки с кодом находятся [здесь](https://github.com/Inna-malina/neatrip-ticket-on-events), посмотреть как работает сама страница и формируется таблица можно посмотреть [здесь](https://inna-malina.github.io/neatrip-ticket-on-events/)
+На данный момент я не умею работать с БД и отправлять данные, полученные из формы в php таблицы, если бы вы в вакансии указали, что нужны такие знания,как php, sql, google-таблицы, то скорее всего я бы не откликалась.
+Но так какэтот момент я увидела, когда практически всё ТЗ было выполнено, то решила не бросать задачи, а сформировать таблицу при помощи JavaScript 
+### Время из A в B
+Папки с кодом находятся [здесь](https://github.com/Inna-malina/nevatrip-ticket-on-ship), а посмотреть как работает страница можно [здесь](https://inna-malina.github.io/nevatrip-ticket-on-ship/)
